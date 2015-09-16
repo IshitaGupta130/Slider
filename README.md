@@ -1,13 +1,13 @@
 <h1>Image Slider</h1>
 The aim behind this Image Slider is to create a slider which has just the right amount of features, with no bloat and be easy to extend so that more features can be added as "extensions". Here are the ideals and core features I wanted to include:
 
-1.HTML5 (SEO optimised)
-2.CSS3 transitions (a few simple transitions like slide/fade)
-3.Left/Right navigation (including touch/swipe support)
-4.Extremely simple to setup (no dependencies)
-5.Very extensible
-6.Uses progressive enhancement
-7.Open source (goes without saying)
+1. HTML5 (SEO optimised)
+2. CSS3 transitions (a few simple transitions like slide/fade)
+3. Left/Right navigation (including touch/swipe support)
+4. Extremely simple to setup (no dependencies)
+5. Very extensible
+6. Uses progressive enhancement
+7. Open source (goes without saying)
 
 <h2>Requirements</h2>
 
@@ -68,8 +68,8 @@ You just need to put your images and your slider will be up.
 
 This Image Slider has been tested on:
 
-1.Chrome
-2.Firefox
-3.Safari (Desktop + Mobile)
-4.Opera
-5.IE9+	
+1. Chrome
+2. Firefox
+3. Safari (Desktop + Mobile)
+4. Opera
+5. IE9+	
