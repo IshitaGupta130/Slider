@@ -1,20 +1,21 @@
-Image Slider
+<h1>Image Slider</h1>
 The aim behind this Image Slider is to create a slider which has just the right amount of features, with no bloat and be easy to extend so that more features can be added as "extensions". Here are the ideals and core features I wanted to include:
 
-HTML5 (SEO optimised)
-CSS3 transitions (a few simple transitions like slide/fade)
-Left/Right navigation (including touch/swipe support)
-Extremely simple to setup (no dependencies)
-Very extensible
-Uses progressive enhancement
-Open source (goes without saying)
+1.HTML5 (SEO optimised)
+2.CSS3 transitions (a few simple transitions like slide/fade)
+3.Left/Right navigation (including touch/swipe support)
+4.Extremely simple to setup (no dependencies)
+5.Very extensible
+6.Uses progressive enhancement
+7.Open source (goes without saying)
 
-Requirements
+<h2>Requirements</h2>
 
 None
 Ideal Image Slider is written in simple HTML and JS and has no other dependencies.
 
-Getting Started
+<h2>Getting Started</h2>
+
 you need to include the CSS file in the <head> section of your HTML and you need to include the script before the </body> tag in your HTML. Note you can optionally include a theme CSS file in the <head> too.
 ```html
 <h2>Example of code</h2>
@@ -63,12 +64,12 @@ Next you need to set up your slider HTML where you want it to appear in your pag
 ```
 You just need to put your images and your slider will be up.
 
-Browsers
+<h2>Browsers</h2>
 
 This Image Slider has been tested on:
 
-Chrome
-Firefox
-Safari (Desktop + Mobile)
-Opera
-IE9+	
+1.Chrome
+2.Firefox
+3.Safari (Desktop + Mobile)
+4.Opera
+5.IE9+	
